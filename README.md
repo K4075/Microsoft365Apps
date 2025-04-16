@@ -1,2 +1,2 @@
 # Microsoft365Apps
- Install Microsoft 365 Apps (Not Licenced)
+ Install Microsoft OneNote and Access
